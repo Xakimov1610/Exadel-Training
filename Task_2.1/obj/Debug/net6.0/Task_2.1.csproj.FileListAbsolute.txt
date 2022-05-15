@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Exadel/Task_2.1/bin/Debug/net6.0/Task_2.1
+/Users/xakimov/Dev/Exadel/Task_2.1/bin/Debug/net6.0/Task_2.1.deps.json
+/Users/xakimov/Dev/Exadel/Task_2.1/bin/Debug/net6.0/Task_2.1.runtimeconfig.json
+/Users/xakimov/Dev/Exadel/Task_2.1/bin/Debug/net6.0/Task_2.1.dll
+/Users/xakimov/Dev/Exadel/Task_2.1/bin/Debug/net6.0/Task_2.1.pdb
+/Users/xakimov/Dev/Exadel/Task_2.1/obj/Debug/net6.0/Task_2.1.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Exadel/Task_2.1/obj/Debug/net6.0/Task_2.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Exadel/Task_2.1/obj/Debug/net6.0/Task_2.1.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Exadel/Task_2.1/obj/Debug/net6.0/Task_2.1.AssemblyInfo.cs
+/Users/xakimov/Dev/Exadel/Task_2.1/obj/Debug/net6.0/Task_2.1.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Exadel/Task_2.1/obj/Debug/net6.0/Task_2.1.dll
+/Users/xakimov/Dev/Exadel/Task_2.1/obj/Debug/net6.0/refint/Task_2.1.dll
+/Users/xakimov/Dev/Exadel/Task_2.1/obj/Debug/net6.0/Task_2.1.pdb
+/Users/xakimov/Dev/Exadel/Task_2.1/obj/Debug/net6.0/Task_2.1.genruntimeconfig.cache
+/Users/xakimov/Dev/Exadel/Task_2.1/obj/Debug/net6.0/ref/Task_2.1.dll
